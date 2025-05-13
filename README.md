@@ -28,8 +28,10 @@ Este repositório contém uma coleção de exercícios resolvidos com **JavaScri
 instale as dependências!
 ```bash
 npm install
+```
 
 Você pode rodar os arquivos com o Node.js no terminal:
 
 ```bash
 node "exercicios/Exercicio 1.js"
+```
